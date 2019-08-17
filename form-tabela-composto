@@ -1,0 +1,23 @@
+ <div>
+            <form action="ResultadoCompostoServlet" method="POST">
+                <label>Capital: </label>
+                <input type="text" name="capital" placeholder="Insira o Capital Inicial: "><br>
+                <label>Taxa mensal: </label>
+                <input type="text" name="taxa" placeholder="Insira a Taxa Mensal: "><br>
+                <label>Meses: </label>
+                <input type="text" name="tempo" placeholder="Insira o Tempo: (meses)"><br>
+                <input type="submit" value="calcular">
+            </form>
+        </div>
+        
+        <div>
+            <br>
+            <table border="1">
+                <tr><th>oi</th>
+                <th>tchau</th>
+                </tr><tr>
+                    <td>aki vai alguma coisa</td>
+                    <td>aki vai outra coisa</td>
+                </tr>
+            </table>
+        </div>
